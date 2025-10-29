@@ -54,7 +54,20 @@ john --show myhashes.txt
 4. **Password Recovery** – Successfully cracked passwords are displayed.
 
 ## OUTPUT:
-Cracked Passwords from Hash File
+![WhatsApp Image 2025-10-08 at 09 24 27_a00b2aa3](https://github.com/user-attachments/assets/92e74f28-1870-4fec-9628-f94c7e1cb5f0)
+![WhatsApp Image 2025-10-08 at 09 24 54_67c7d642](https://github.com/user-attachments/assets/9f236560-329d-451b-b741-c91839fc854c)
+![WhatsApp Image 2025-10-08 at 09 25 41_06183451](https://github.com/user-attachments/assets/58839b94-1c17-430e-8852-68a05e120945)
+![WhatsApp Image 2025-10-08 at 09 26 27_3e230089](https://github.com/user-attachments/assets/8a153a41-6d45-4db6-9742-efa2cc6e0be7)
+![WhatsApp Image 2025-10-08 at 09 43 33_8bcaa631](https://github.com/user-attachments/assets/700c0550-518a-46db-a0a8-5e4a577032f2)
+
+
+
+
+
+
+
+
+
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
